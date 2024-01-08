@@ -1,0 +1,62 @@
+.container {
+    background: whitesmoke;
+    opacity: 0.5;
+    place-items: center;
+    line-height: normal;
+    width: 25vw;
+    height: 50vh;
+    padding: 1rem 0;
+    margin: 0 2rem;
+    text-align: center;
+    line-height: 1;
+    font-weight: normal;
+    border-radius: 20px;
+    border: 5px solid #7289da;
+    box-sizing: content-box;
+    box-shadow: 2px 5px 15px #7289da;
+  }
+
+  .image {
+    border-radius: 50%;
+    width: 169.65px;
+    height: 169.65px; 
+    opacity: 10;
+    border: 5px solid #7289da;
+  }
+
+  .foot {
+    border: 1px solid #7289da;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    cursor: pointer;
+    padding: .5rem;
+    transition: .2s ease-in-out background;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .footer a:hover {
+    cursor: pointer;
+    background: #7289da;
+  }
+
+  .footer {
+    padding-top: 13%;
+  }
+
+  .github {
+    border-radius: 50%;
+    padding-right: 15px;
+    width: 150px;
+    height: 150px; 
+    opacity: 10;
+  }
+
+  .discord {
+    border-radius: 50%;
+    padding-left: 5px;
+    width: 150px;
+    height: 150px; 
+    opacity: 10;
+  }
