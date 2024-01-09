@@ -33,3 +33,8 @@ body {
     cursor: pointer;  
     color: #7289da;
   }
+
+  #randy:hover {
+    cursor: pointer;
+    background: none;
+  }
